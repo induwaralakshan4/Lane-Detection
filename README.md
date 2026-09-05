@@ -2,7 +2,7 @@
 
 «A Computer Vision project that detects and highlights potential lane boundaries from road-driving video using Python, OpenCV, and image processing techniques.»
 
-###🎥 Project Demo
+### 🎥 Project Demo
 
 <!-- Upload your project video to GitHub and replace the URL below -->
 ![lv_0_20260830005610.jpg](https://github.com/user-attachments/assets/e29043f2-93e8-471d-a635-e67ebab3c9df)
