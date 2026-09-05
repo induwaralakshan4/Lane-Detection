@@ -1,15 +1,15 @@
-🚗 Lane Detection using OpenCV & Image Processing
+### 🚗 Lane Detection using OpenCV & Image Processing
 
 «A Computer Vision project that detects and highlights potential lane boundaries from road-driving video using Python, OpenCV, and image processing techniques.»
 
-🎥 Project Demo
+###🎥 Project Demo
 
 <!-- Upload your project video to GitHub and replace the URL below -->
 ![lv_0_20260830005610.jpg](https://github.com/user-attachments/assets/e29043f2-93e8-471d-a635-e67ebab3c9df)
 
 ---
 
-📌 About the Project
+### 📌 About the Project
 
 Lane Detection using OpenCV is a Computer Vision project developed using Python, OpenCV, and NumPy to identify and highlight potential lane boundaries from a road-driving video.
 
@@ -19,7 +19,7 @@ This project focuses on understanding how traditional Computer Vision and Image 
 
 ---
 
-🎯 Project Objectives
+### 🎯 Project Objectives
 
 - 🚗 Process road-driving video frame-by-frame
 - 🛣️ Detect potential lane-related features
@@ -32,7 +32,7 @@ This project focuses on understanding how traditional Computer Vision and Image 
 
 ---
 
-✨ Key Features
+### ✨ Key Features
 
 🎥 Video Processing
 
@@ -68,7 +68,7 @@ Detected contours and bounding rectangles are drawn onto the original video fram
 
 ---
 
-🔄 Computer Vision Pipeline
+### 🔄 Computer Vision Pipeline
 
              🎥 Input Video
                     │
@@ -107,7 +107,7 @@ Detected contours and bounding rectangles are drawn onto the original video fram
 
 ---
 
-🧠 Image Processing Workflow
+### 🧠 Image Processing Workflow
 
 1. Video Input
 
@@ -229,7 +229,7 @@ Visualized Output
 
 ---
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 Technology| Purpose
 🐍 Python| Main programming language
@@ -239,7 +239,7 @@ Technology| Purpose
 
 ---
 
-🔑 OpenCV Functions Used
+### 🔑 OpenCV Functions Used
 
 Function| Purpose
 "cv2.VideoCapture()"| Read video frames
@@ -254,7 +254,7 @@ Function| Purpose
 
 ---
 
-⚙️ Installation
+### ⚙️ Installation
 
 1. Clone the Repository
 
@@ -269,7 +269,7 @@ pip install opencv-python numpy
 
 ---
 
-▶️ Run the Project
+### ▶️ Run the Project
 
 Place your input road video in the appropriate directory and run:
 
@@ -280,7 +280,7 @@ The processed frames will display the detected contours and bounding regions.
 
 ---
 
-📊 Detection Process
+### 📊 Detection Process
 
 The system can be summarized as:
 
@@ -298,7 +298,7 @@ Stage| Operation
 
 ---
 
-🧠 What I Learned
+### 🧠 What I Learned
 
 This project provided valuable hands-on experience with traditional Computer Vision techniques.
 
@@ -317,7 +317,7 @@ Key learning outcomes:
 
 ---
 
-⚠️ Limitations
+### ⚠️ Limitations
 
 This project uses traditional image processing rather than a trained Deep Learning model.
 
@@ -336,7 +336,7 @@ The detected contours and bounding regions should therefore be considered potent
 
 ---
 
-🚀 Future Improvements
+### 🚀 Future Improvements
 
 Possible future improvements include:
 
@@ -352,7 +352,7 @@ Possible future improvements include:
 
 ---
 
-🌍 Potential Applications
+### 🌍 Potential Applications
 
 The techniques explored in this project can contribute to applications such as:
 
@@ -365,7 +365,7 @@ The techniques explored in this project can contribute to applications such as:
 
 ---
 
-📌 Project Status
+### 📌 Project Status
 
 Status: 🟢 Completed — Initial Version
 
@@ -373,7 +373,7 @@ This project is part of my journey in learning and applying Computer Vision, Ima
 
 ---
 
-👨‍💻 About
+### 👨‍💻 About
 
 I’m exploring Python, Computer Vision, Artificial Intelligence, and Machine Learning by building practical projects.
 
@@ -383,7 +383,7 @@ This project strengthened my understanding of how traditional image processing t
 
 ---
 
-⭐ Support
+### ⭐ Support
 
 If you find this project interesting, consider giving the repository a ⭐ Star.
 
@@ -391,6 +391,6 @@ Your support motivates me to continue learning and building more Computer Vision
 
 ---
 
-🔖 Topics
+### 🔖 Topics
 
 "Python" "OpenCV" "NumPy" "Computer Vision" "Lane Detection" "Image Processing" "Edge Detection" "Contour Detection" "Video Processing" "Artificial Intelligence" "Machine Learning"
